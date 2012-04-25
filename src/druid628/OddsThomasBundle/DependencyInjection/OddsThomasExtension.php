@@ -1,6 +1,6 @@
 <?php
 
-namespace com\druid628\OddsThomasBundle\DependencyInjection;
+namespace druid628\OddsThomasBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

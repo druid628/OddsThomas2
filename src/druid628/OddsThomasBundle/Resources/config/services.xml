@@ -6,7 +6,7 @@
 
     <!--
     <parameters>
-        <parameter key="odds_thomas.example.class">com\druid628\OddsThomasBundle\Example</parameter>
+        <parameter key="odds_thomas.example.class">druid628\OddsThomasBundle\Example</parameter>
     </parameters>
 
     <services>

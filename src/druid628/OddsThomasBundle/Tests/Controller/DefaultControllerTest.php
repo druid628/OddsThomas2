@@ -1,6 +1,6 @@
 <?php
 
-namespace com\druid628\OddsThomasBundle\Tests\Controller;
+namespace druid628\OddsThomasBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

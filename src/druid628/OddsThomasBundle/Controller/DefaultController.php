@@ -1,6 +1,6 @@
 <?php
 
-namespace com\druid628\OddsThomasBundle\Controller;
+namespace druid628\OddsThomasBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;

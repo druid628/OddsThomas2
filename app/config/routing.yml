@@ -1,7 +1,7 @@
 OddsThomasBundle:
     resource: "@OddsThomasBundle/Controller/"
     type:     annotation
-    prefix:   /odd/
+    prefix:   /
 
 # Internal routing configuration to handle ESI
 #_internal:
